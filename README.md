@@ -33,6 +33,6 @@ Programador apaixonado por tecnologia, sempre buscando aprender e compartilhar c
 ## 📊 | **Estatísticas**
 
 <div align="center" >
-  ![joaovictxrz's Stats](https://github-readme-stats.vercel.app/api?username=joaovictxrz&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-  ![joaovictxrz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictxrz&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictxrz&show_icons=true&theme=Dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictxrz&layout=compact&langs_count=7&theme=Dracula"/>
 </div>
