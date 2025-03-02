@@ -1,9 +1,12 @@
-## Hi there, I'm **João Victor** 👋
+## Hey👋
+
+Muito prazer, me chamo João Victor<br/>
+Programador apaixonado por tecnologia, sempre buscando aprender e compartilhar conhecimento.  
+
 
 ## 🚀 | **Sobre mim**
 
 𖧹 Estudante do 7º semestre de Engenharia de Software pela _Anhanguera_  
-𖧹 Programador apaixonado por tecnologia, sempre buscando aprender e compartilhar conhecimento.  
 𖧹 Sempre buscando criar soluções escaláveis, eficientes e bem estruturadas.
 
 ## 📌 | **Skills**
@@ -31,7 +34,7 @@
 
 <p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -39,7 +42,7 @@
   />
 
 <img 
-    align="center" 
+    align="right" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictxrz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
