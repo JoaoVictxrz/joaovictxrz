@@ -33,6 +33,6 @@ Programador apaixonado por tecnologia, sempre buscando aprender e compartilhar c
 ## 📊 | **Estatísticas**
 
 <div align="center" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictxrz&show_icons=true&theme=Dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictxrz&layout=compact&langs_count=7&theme=Dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictxrz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictxrz&layout=compact&langs_count=7&theme=dark"/>
 </div>
