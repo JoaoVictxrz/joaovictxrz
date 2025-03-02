@@ -32,20 +32,7 @@ Programador apaixonado por tecnologia, sempre buscando aprender e compartilhar c
 
 ## 📊 | **Estatísticas**
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaovictxrz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-    align="right" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictxrz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div align="center" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictxrz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictxrz&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
