@@ -6,7 +6,7 @@ Programador apaixonado por tecnologia, sempre buscando aprender e compartilhar c
 
 ## 🚀 | **Sobre mim**
 
-𖧹 Estudante do 7º semestre de Engenharia de Software pela _Anhanguera_  
+𖧹 Graduado em de Engenharia de Software pela _Anhanguera_  
 𖧹 Sempre buscando criar soluções escaláveis, eficientes e bem estruturadas.
 
 ## 📌 | **Skills**
